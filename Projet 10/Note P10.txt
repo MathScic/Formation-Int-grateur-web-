@@ -1,0 +1,23 @@
+Probleme site 724 event : 
+
+- sur slider image blanche apparait, a modifie.
+
+ on remarque que le state passe de 0 a 3 (donc défilement ok) slide blanc = 3 
+
+- ordre defilement (du plus ancien au plus recent) 
+
+- liste evenement, filtre catégories ne fonctionne pas (pas de reaction quand on choisi une catégorie) doit afficher que élément categorie selectionner  
+
+on remarque quand on selectionne toutes le state = null, et que pour le reste des choix le state affiche le bon résultat.  
+
+On remarque que chaque img a une key mais que les key vont de 1 a 18. Elles sont donc pas bien classer.
+
+- modifier les bons mois de la liste des categories
+
+Il faudrait lier le label ainsi que les id au catégorie pour pouvoir regler ce soucis 
+
+- pas d'envoie du message dans le formulaire de contact (message de confirmation d'envoie doit s'afficher) 
+
+onclikc sur bouton envoyer ou onSubmit sur le form 
+
+- footer en bas a gauche, afficher image de la préstation concerné 

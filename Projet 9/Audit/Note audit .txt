@@ -1,0 +1,46 @@
+Partis 		Bonne pratique 				 
+Performance 	• Temp de blocage total (= 0ms)	 
+		• Index de vitesse (= 2.7sec) 
+						
+		Amélioration
+		• Dimensionner correctement les img (permet gagner en stockage de données) 	
+		• Diffusion img dans formats de new gen 
+		• Éviter d'énormes charge sur les réseaux 
+		• Changé la politique de cache 
+		• Réduire impact code tiers (Jquery CDN = 30Kib et 930ms) 
+		• Largeur et hauteur non explicite 
+		• Codé efficacement les <img>
+		• Retirer ressources bloquant le rendu 
+		• Minimiser le JS (16Kib de sauvegarde à réduire)
+		• Réduire le CSS inutiliser (26Kib de sauvegarde a réduire) 
+		• Réduire le JS inutiliser (31Kib de save a réduire) 
+		
+Accessibilité 		
+		Bonne pratique 
+
+		• <img> n'ont pas toutes des attributs (alt) 
+		• Le code n'a pas de titre (<title>) 
+		• <form> est pas associer a <label> 
+		• Le liens insta n'a pas de nom perceptible 
+		
+SEO 		
+
+
+Modification : 
+
+- Perfommance a 94%, compression des img, re dimlenssionnage, appliacation de width and height, titre de la page html....
+
+- Le soucis est que les photos dans les assets sont en format png ou jpg et sur le code la plus part sont au format WEBP, si tous ce met en webp ça baisse de 95% 
+
+- SEO a 90% juste attribut "meta description" a rajouté
+
+- Access 94% juste modifier input dnas la partie form  
+
+- 	format (JPG; WEBp ...)   ok 
+ 	dimenssion ( width re seiez img)   ok 
+  	cls (mettre width et heigt dans html)
+	responsiv
+
+- Convertir les img de JPG a WEBP 
+- Les re size 
+- appliquer srcset 

@@ -1,0 +1,23 @@
+Projet 7 : 
+-ce rensegner sur comment faire un dashboard 
+
+- qu est ce qu'on utiliserai pour le creer
+
+- recherche sur l'hébergement du site (quel hébergement choisir) 
+
+- pour les justification = justifier nos choix techno etc ...
+
+- veille technologie, verifier  ce qu il ce passe dans le monde sur les techno  
+
+- presentation veille 
+
+- presentation 2 gestion projet (trello) explique taille équipe, temp projet ....
+
+- présentation 3 solution faire screen et diagram 
+
+
+
+- pour powerpoint veille technique faire capture ecran et commenter 
+- présentation 1 = recapitulez + expliquez mise en place de la veille (2 aspect = verifiez ce qui ce fait sur le site, site similaire a menumaker, veille par rapport a ce qui peut etre utilisez (outil html, jS...)
+
+cours sur veille technique outil de veille = twitter, google keep...

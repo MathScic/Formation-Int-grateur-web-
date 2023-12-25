@@ -1,0 +1,8 @@
+Note mentor Projet 2 , 
+
+- Pas possible de faire des modifs sur le projet
+- Prend pas toute largeur de la page, Pourquoi ? 
+- Partie les 'membres fondateurs' pas de marge en top. commetn, rerglez sa. 
+- Marge entre partie 'membres fondateurs' et 'Découvrez nos cours' 
+
+sinon les liens fonctionnent bien, les couleurs et mise en formes dans les parties et presque bien. 

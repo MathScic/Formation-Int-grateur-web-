@@ -1,0 +1,73 @@
+
+/**Création animation**/
+.inter-heart {
+    border: 3px solid;
+    height: 35px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.heart-transition {
+    background: linear-gradient(193.33deg, #9356DC -11.44%, #FF79DA 123.93%);
+    position: absolute;
+    margin-left: 24rem;
+}
+
+.heart-transition:active {
+    background: linear-gradient(193.33deg, #9356DC -11.44%, #FF79DA 123.93%);
+    cursor: pointer;
+    animation: heartTransition 1s infinite;
+}
+
+@keyframes heartTransition {
+    from {
+        background: transparent;
+    }
+
+    to {
+        color: #9356DC;
+        background: linear-gradient(162deg, #ff79da 0%, #9356dc 100%);
+    }
+}
+
+section {
+    position: absolute;
+      top: 150px;
+      left: 20%;
+  }
+
+  .container {
+    width: 20vw;
+    position: relative;
+    padding-right: 50px;
+    background-color: #131416;
+    color:white;
+    border-radius: 1rem;
+    padding: 15px 15px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    overflow: hidden
+}
+
+.price-check {
+    position: absolute;
+    right: -60px;
+    top: 0px;
+    display: flex;
+    height: 100%;
+    transition: right 0.5s ease-in;
+}
+
+.container:hover .price-check {
+    right: 0%;
+}
+
+.check-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 100%;
+    background: #99e2d0;
+    border: 1px solid transparent;
+}

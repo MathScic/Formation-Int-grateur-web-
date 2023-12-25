@@ -1,0 +1,18 @@
+- revoir etoile de notation 
+
+- regler soucis des etoiles de notation squi doivent apparaitre en etoile et pas en chiffres   (carescale cours edebutez avec react)
+
+- animation fleche a l'envers + placé animation flèche sur description et equipement    (changer chevron de font awesome )
+
+- modifer CSS rotate sur collapse
+
+- retirer Keyframe pour transiton et transform (height 0 jusqua 100) 
+
+- faire tableau objet (comme flat.js) pour a propos (const terms = name :"", text:"" ) et collapse dans map 
+
+
+
+
+
+
+
