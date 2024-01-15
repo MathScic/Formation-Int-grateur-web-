@@ -21,3 +21,8 @@ Il faudrait lier le label ainsi que les id au catégorie pour pouvoir regler ce 
 onclikc sur bouton envoyer ou onSubmit sur le form 
 
 - footer en bas a gauche, afficher image de la préstation concerné 
+
+
+07/01/23 
+
+- re decomposre le code EventList pour mieux l'intégrer 
